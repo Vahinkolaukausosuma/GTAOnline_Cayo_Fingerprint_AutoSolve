@@ -15,4 +15,4 @@ Vid of it working with timestamp ↓↓↓↓↓↓
 
 
 
-[![Alt text](https://img.youtube.com/vi/aC8ShPKoI-s/0.jpg)](https://www.youtube.com/watch?v=aC8ShPKoI-s?t=33)
+[![Alt text](https://img.youtube.com/vi/aC8ShPKoI-s/0.jpg)](https://youtu.be/aC8ShPKoI-s?t=33)
