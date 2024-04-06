@@ -11,8 +11,11 @@ Edit the WindowPositionX and WindowPositionY position variables to move the wind
 How to run?
 ``luajit GTAOnline_Cayo_Fingerprint_AutoSolve.lua``
 
-Vid of it working with timestamp ↓↓↓↓↓↓
+Vid of it working ↓↓↓↓↓↓↓↓
 
 
 
-[![Alt text](https://img.youtube.com/vi/aC8ShPKoI-s/0.jpg)](https://youtu.be/aC8ShPKoI-s?t=33)
+
+
+https://github.com/Vahinkolaukausosuma/GTAOnline_Cayo_Fingerprint_AutoSolve/assets/29866588/fef445d3-9df4-4731-9581-5c3b6f0244f6
+
